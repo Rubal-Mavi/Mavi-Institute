@@ -1,0 +1,36 @@
+<HTML>
+ <HEAD>
+  <TITLE> exp10(20MCA20194)</TITLE>
+  <link href="extcss10.css" rel="stylesheet">
+  <script type-"text/javascript">
+  var x = alert("Are you interested in educatonal institutions?")
+
+  </script>
+ </HEAD>
+<BODY>
+ <div id="navbar"> 
+  <a href="#"> mavi_institute.in</a>
+  <a href="#"> Admission information</a>
+  <a href="#"> shining stars</a>
+  <a href="file:///C:/Users/Vansh/Desktop/webpage2.html"> click to get imp questions</a>
+  </div>
+<br><br>
+     
+     <button>SEARCH</button>
+   <BR><BR>
+<div>
+    <div id="rub">
+      <ol>
+       <li>get free access to unlimited notes!</li>
+       <li>for offline tuitions contact abc@gmail.com</li>
+       <li>special classes on weekends</li>
+       </ol>
+     </div>
+    <div id ="rub2">
+
+    <img src= "class10.jpg"></div>
+    </div>
+</DIV>
+<h2> ENROLL NOW! to make your future brighter! </h2>
+</BODY> 
+</HTML>

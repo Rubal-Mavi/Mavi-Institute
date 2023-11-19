@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  text-transform: capitalize;
+  margin-top: 0px;
+  }
+
+#navbar {
+  background-color: black;
+  color: white;
+  overflow:hidden;
+}
+
+a {
+ margin-right: 200px;
+ color: white;
+ text-decoraton: none;
+ float: left;
+ display: block;
+ 
+}
+
+h1 { 
+  color: white;
+ }
+body {
+  background-image: repeating-linear-gradient(black, red, orange);
+ }
+
+
+
+button {
+ background-color: yellow;
+  }
+
+ img {
+  height: 400;
+  width: 400;
+  border-style: dotted;
+  border-color: white; 
+}
+
+#rub {
+  color: white;
+  text-decoration: 2px white wavy underline;
+  font-size: 25px;
+  width: 40%;
+  align: left;
+  margin: 0px;
+  
+  }
+#rub2 {
+  align:right;
+  margin:0px;
+
+}
+
+.myclass {
+  color: black;
+  font-size: 18px;
+  font-style: italic;
+ }
+  
+  
